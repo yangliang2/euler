@@ -1,0 +1,6 @@
+{
+  "name": "@euler/monitor-cli",
+  "version": "1.0.0",
+  "description": "Superhuman monitoring CLI",
+  "main": "index.js"
+}
